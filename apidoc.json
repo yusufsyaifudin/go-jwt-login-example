@@ -1,0 +1,12 @@
+{
+  "name": "Go JWT Example",
+  "version": "1.0.0",
+  "description": "API engine",
+  "title": "Go JWT Example",
+  "url" : "https://localhost:8000/api/v1",
+  "sampleUrl": "http://localhost:8000/api/v1",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
